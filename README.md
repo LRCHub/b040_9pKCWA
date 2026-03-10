@@ -1,0 +1,98 @@
+# メガテラ・ゼロ – Down
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Yay Yay
+I'm glad to be alive
+WOoooo o o
+Yay Yay
+I'm glad to be alive
+to be alive
+Yay Yay
+I'm glad to be alive
+WOoooo o o
+Yay Yay
+I'm glad to be alive
+OK let's go
+まだまだ通過点だ
+この道 邪魔すんな
+一つの命では
+時間が足りないんだ
+未知との遭遇
+君とのso good
+いつでもそうyou
+Hey baby time is
+もったいないから走り続けよう
+All right
+How is it today You are
+笑えてますか? (Smile)
+つらいなら少し
+down down down down
+How is it today You are
+君が笑顔に なってくれますように
+OK let's go
+Yay Yay
+I'm glad to be alive
+WOoooo o o
+Yay Yay
+I'm glad to be alive
+to be alive
+How are you doing
+Are you all right?
+please take care
+oh no no no no
+ただの言葉じゃ君を
+救うことはできないだろうけど
+雨が降れば僕が
+傘をさすくらいなら
+転びそうなときは
+肩を貸すくらいなら
+そんくらいのことしか
+できはしないけれど
+君を助けたいから から
+明日生きてるか
+正直ハテナ?だけど
+それでも未来を
+考えてしまうよ
+未知との遭遇
+君とのso good
+いつでもそうyou
+Hey baby time is
+走り続けよう
+All right
+How is it today You are
+笑えてますか? (Smile)
+つらいなら少し
+ダウンダウン ダウンダウン
+How is it today ユーアー
+君が笑顔に なってくれますように
+OK let's go
+How is it today You are
+生きてますか? (Life)
+つらいなら少し
+down down down down
+How is it today You are
+君が笑顔に なってくれますように
+OK let's go
+Yay Yay
+I'm glad to be alive
+WOoooo o o
+Yay Yay
+I'm glad to be alive
+to be alive
+Yay Yay
+I'm glad to be alive
+WOoooo o o
+Yay Yay
+I'm glad to be alive
+to be alive
+OK let's go
+All right
+How is it today You are
+笑えてますか? (Smile)
+つらいなら少し
+down down down down
+How is it today You are
+君が笑顔に なってくれますように
+```
