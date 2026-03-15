@@ -1,98 +1,79 @@
-# メガテラ・ゼロ – Down
+# メガテラ・ゼロ – Open
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
 ```
-Yay Yay
-I'm glad to be alive
-WOoooo o o
-Yay Yay
-I'm glad to be alive
-to be alive
-Yay Yay
-I'm glad to be alive
-WOoooo o o
-Yay Yay
-I'm glad to be alive
-OK let's go
-まだまだ通過点だ
-この道 邪魔すんな
-一つの命では
-時間が足りないんだ
-未知との遭遇
-君とのso good
-いつでもそうyou
-Hey baby time is
-もったいないから走り続けよう
-All right
-How is it today You are
-笑えてますか? (Smile)
-つらいなら少し
-down down down down
-How is it today You are
-君が笑顔に なってくれますように
-OK let's go
-Yay Yay
-I'm glad to be alive
-WOoooo o o
-Yay Yay
-I'm glad to be alive
-to be alive
-How are you doing
-Are you all right?
-please take care
-oh no no no no
-ただの言葉じゃ君を
-救うことはできないだろうけど
-雨が降れば僕が
-傘をさすくらいなら
-転びそうなときは
-肩を貸すくらいなら
-そんくらいのことしか
-できはしないけれど
-君を助けたいから から
-明日生きてるか
-正直ハテナ?だけど
-それでも未来を
-考えてしまうよ
-未知との遭遇
-君とのso good
-いつでもそうyou
-Hey baby time is
-走り続けよう
-All right
-How is it today You are
-笑えてますか? (Smile)
-つらいなら少し
-ダウンダウン ダウンダウン
-How is it today ユーアー
-君が笑顔に なってくれますように
-OK let's go
-How is it today You are
-生きてますか? (Life)
-つらいなら少し
-down down down down
-How is it today You are
-君が笑顔に なってくれますように
-OK let's go
-Yay Yay
-I'm glad to be alive
-WOoooo o o
-Yay Yay
-I'm glad to be alive
-to be alive
-Yay Yay
-I'm glad to be alive
-WOoooo o o
-Yay Yay
-I'm glad to be alive
-to be alive
-OK let's go
-All right
-How is it today You are
-笑えてますか? (Smile)
-つらいなら少し
-down down down down
-How is it today You are
-君が笑顔に なってくれますように
+ヘイ
+そこの君少しおいで
+この扉の先は
+色とりどりの世界が
+広がる
+ヘイ
+多彩で面妖な
+魔法のようなデイバイデイ
+最新の世界地図を
+広げましょう
+ヘイ
+レッツゴー ネクストステージ
+Once you take the first step
+Oh, my God.
+It's a strange world.
+ヘイ
+そこの君少しおいで
+その扉の先は
+色とりどりの世界が
+待ってる
+知らないは
+刺激的で
+だから手を伸ばすの
+Open the New World
+Open the New World
+新しい
+新しい世界へ
+カモン welcome
+カモン welcome
+さぁ歩き出しましょう
+ヘイ
+簡単なことさ
+新しいは怖くて
+手を出せなくて
+殻にこもってしまうの
+でも違うの 何か求めてるの
+ヘイ
+でも目の前にあって
+景色を変えたくて
+もがくのもまた一興
+ヘイ
+そこの君少しおいで
+この扉の先は
+色とりどりの世界が
+広がる
+ヘイ
+多彩で面妖な
+魔法のようなデイバイデイ
+最新の世界地図を
+Open the New World
+Open the New World
+新しい
+新しい世界へ
+カモン welcome
+カモン welcome
+さぁ歩き出しましょう
+知らないは
+刺激的で
+だから手を伸ばすの
+Open the New World
+Open the New World
+新しい
+新しい世界へ
+カモン welcome
+カモン welcome
+さぁ
+Open the New World
+Open the New World
+新しい
+新しい世界へ
+カモン welcome
+カモン welcome
+さぁ歩き出しましょう
 ```
